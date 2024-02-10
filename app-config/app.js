@@ -3,7 +3,7 @@ var fs = require('fs')
 app = express();
 
 // read in the APP_MSG env var
-//this is a test comment
+//this is a test comment for demo
 var msg = process.env.APP_MSG;
 
 var response;
